@@ -1,3 +1,4 @@
 pages
 env/
 *.pyc
+*.tch
